@@ -1,5 +1,8 @@
 # TDD with NodeJs
 
+## Video
+Follow https://youtu.be/Zq9gff4nb9w
+
 ## User Stories
 
 ### As user, i want to register my data in the system so that i can keep my data
